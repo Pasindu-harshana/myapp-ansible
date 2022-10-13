@@ -1,5 +1,5 @@
 ---
-- hosts: demo3 
+- hosts: demo1 
   become: True
   tasks:
     - name: Install packages
